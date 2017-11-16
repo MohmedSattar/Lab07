@@ -27,10 +27,10 @@ figure ul {
 */
 figcaption {
   box-sizing: border-box;
-  height: 4em;
-  line-height: 1.2em;
+  height: 3em;
+  line-height: 1em;
   padding: .25em;
-  transform: translateY(4em);
+  transform: translateY(2em);
   background: #fff;
   /* background: rgba( 255, 255, 255, 0 ); */
   opacity: 0;
